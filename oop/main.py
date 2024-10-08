@@ -2,7 +2,7 @@ from book_class import Book
 
 def main():
     #Creating an instance of Book class
-    my_book = Book('1984', 'Geaorge Orwell', 1949) 
+    my_book = Book('1984', 'George Orwell', 1949) 
 
     #Demonstrating the __str__ method
     print(my_book)
